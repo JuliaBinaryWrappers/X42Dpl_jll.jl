@@ -1,0 +1,160 @@
+[[X42Dpl]]
+arch = "aarch64"
+git-tree-sha1 = "8207e913314f7ed13fb873b8dfbece3d52eb6051"
+os = "macos"
+
+    [[X42Dpl.download]]
+    sha256 = "a6aedfd17d46042f629842c2ccf43f88842e54bb4c914b6dc0b334711672c55c"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.aarch64-apple-darwin.tar.gz"
+[[X42Dpl]]
+arch = "aarch64"
+git-tree-sha1 = "66198209d5e90393dc292f05e2bca6afcc2599c6"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "a3732dbea316150370fdc92a33b9d8ad9dad7d634a6b27de1de81488e562e756"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.aarch64-linux-gnu.tar.gz"
+[[X42Dpl]]
+arch = "aarch64"
+git-tree-sha1 = "00375defd70979670b3b8215fc203a8f76b4e4cb"
+libc = "musl"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "d088657da1845b64d081ad318e5203c7c10fd7a61cafa2053611d3967b64dd8b"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.aarch64-linux-musl.tar.gz"
+[[X42Dpl]]
+arch = "aarch64"
+git-tree-sha1 = "777748646a4123a1b058d93305ff90134e9c9a53"
+os = "freebsd"
+
+    [[X42Dpl.download]]
+    sha256 = "ecc03d1f84e86c3a3131fd5d620a007936d02695fa3608b2357b62ee582b32d8"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.aarch64-unknown-freebsd.tar.gz"
+[[X42Dpl]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ca88ffe521449d140a6ee05251102be2a11769b4"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "c0293179ad7d18a2363c05e63df2a081265a01f4935e3bab130f9fd3fd1f6d06"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.armv6l-linux-gnueabihf.tar.gz"
+[[X42Dpl]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d0619c65a3a4789ed49d9d7bbad75a66cae05baa"
+libc = "musl"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "fbbd20edab236ce238a2929c597ccd9386dc738c3ddc1bf9112ad5f34b866c99"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.armv6l-linux-musleabihf.tar.gz"
+[[X42Dpl]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "92c7068616c3962d5f3cbbfd1a7a5bc3ff5cf27b"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "a6f6bfe8019a016f61d1c4aecff00daa61d1a7a05a5806fc9b29df43c1c33e03"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.armv7l-linux-gnueabihf.tar.gz"
+[[X42Dpl]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a276a0c06e580377fa0143b30345d0f393e65c84"
+libc = "musl"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "852fd5a91a942f4a432d979ce0d7fb5ca1e6129c24a4c991bbe64082e283f72f"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.armv7l-linux-musleabihf.tar.gz"
+[[X42Dpl]]
+arch = "i686"
+git-tree-sha1 = "61e4dd99871948ba221edbede5d91630a1ec875b"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "e7466c00d10682a48ceef6c55f661d4a334934f778986a0d56d042e364572d3b"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.i686-linux-gnu.tar.gz"
+[[X42Dpl]]
+arch = "i686"
+git-tree-sha1 = "0be1cc0ec4d70a804ef3344371fa1ad0e42a3e4f"
+libc = "musl"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "92752bb7ffbb9fba982a7c524c3e9bd9e231ce9825251dc64f9123671674713d"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.i686-linux-musl.tar.gz"
+[[X42Dpl]]
+arch = "i686"
+git-tree-sha1 = "2067459b7b1b3b24d174b5e35e573e10a14a65f5"
+os = "windows"
+
+    [[X42Dpl.download]]
+    sha256 = "8d81914a05a3bf9f0c202a3a853d28ffc9f238a2bd1ca1efd8a68c123d4fb750"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.i686-w64-mingw32.tar.gz"
+[[X42Dpl]]
+arch = "powerpc64le"
+git-tree-sha1 = "eac21936c37f87cec34dd3ea00b83a72b5e0511e"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "9ff2f2b52423a092f34b702c54382dc9b1325b57f4d29614ef9f30b668bc0319"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.powerpc64le-linux-gnu.tar.gz"
+[[X42Dpl]]
+arch = "riscv64"
+git-tree-sha1 = "1145dd508a95f065374add20cf7fc8f5cb4c2f45"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "ca65c3a2c2748da35287d5a09323a108271fefa4c10a431e5c97cd101e6e18af"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.riscv64-linux-gnu.tar.gz"
+[[X42Dpl]]
+arch = "x86_64"
+git-tree-sha1 = "37a1ebed1aa61ff233c6bbfd3c39bdf61083eeb5"
+os = "macos"
+
+    [[X42Dpl.download]]
+    sha256 = "69fcdeca6fd941dd644835a2a2c4799bca4949eda2792c1e756b456be92019cf"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.x86_64-apple-darwin.tar.gz"
+[[X42Dpl]]
+arch = "x86_64"
+git-tree-sha1 = "5f90ea9cc58c4df24cdb95c834be07ff89dc7e03"
+libc = "glibc"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "2d1f1ad8dc62db71b2b37917a6bd2b6b97ceb451caba081adcca43ec632f205d"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.x86_64-linux-gnu.tar.gz"
+[[X42Dpl]]
+arch = "x86_64"
+git-tree-sha1 = "0c52ee8e462aee874c7c3b60d77d37e450e88d90"
+libc = "musl"
+os = "linux"
+
+    [[X42Dpl.download]]
+    sha256 = "755b627dc436acbf7a70d1f79729324b027e955e42dbe7f6ff62a25ff2bbec4e"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.x86_64-linux-musl.tar.gz"
+[[X42Dpl]]
+arch = "x86_64"
+git-tree-sha1 = "25ead5579d03e7a1a1f0162c9a2fe49f79bada7f"
+os = "freebsd"
+
+    [[X42Dpl.download]]
+    sha256 = "a40c4d2a8d2671f74b178d2e570d3869fed56b01a22779d5358859a6017bce69"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.x86_64-unknown-freebsd.tar.gz"
+[[X42Dpl]]
+arch = "x86_64"
+git-tree-sha1 = "c4b89342889341cebe343f5fc35ccb65541d76c1"
+os = "windows"
+
+    [[X42Dpl.download]]
+    sha256 = "cd8c9bb3e75442936bf885138789d2a2a4362b4c594744cf304204a0d7275bf0"
+    url = "https://github.com/JuliaBinaryWrappers/X42Dpl_jll.jl/releases/download/X42Dpl-v2025.6.6+0/X42Dpl.v2025.6.6.x86_64-w64-mingw32.tar.gz"
